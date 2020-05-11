@@ -1,0 +1,1 @@
+/r ?{Critical?| No,1d8+2d6 + ?{Enlarge? &#124; No &#44; 0 &#124; Yes &#44; 1d4 [Enlarged] &#125; + ?{Raging? &#124; Yes &#44; 2 [Raging] &#124; No &#44; 0 &#125; |Yes,2d8+4d6 + ?{Enlarge? &#124; No &#44; 0 &#124; Yes [Enlarged] &#44; 2d4 &#125; + ?{Raging? &#124; Yes [Raging] &#44; 2 &#124; No &#44; 0 &#125;} + 5
