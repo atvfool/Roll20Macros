@@ -1,0 +1,7 @@
+/em Rod Of Lordly Might To Hit
+/em First Attack
+/r 1d20 + ?{Which Mode?| Flame Tongue, 10 [Fire Damage]| Mace/Battleaxe/Spear, 13} +#Bless
+/em ?{Any of these?|No, :) |Drain Life, Drain Life(Con) |Paralyze, Paralyze(Str)| Terrify, Terrify(Wis)} DC17
+/em Second Attack
+/r 1d20 + ?{Which Mode2?| Flame Tongue, 10 [Fire Damage]| Mace/Battleaxe/Spear, 13} +#Bless
+/em ?{Any of these2?|No, :) |Drain Life, Drain Life(Con) |Paralyze, Paralyze(Str)| Terrify, Terrify(Wis)} DC17

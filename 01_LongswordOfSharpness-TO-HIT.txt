@@ -1,0 +1,5 @@
+/em Longsword of Sharpness To Hit
+/r 1d20 +10
+When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
+/em Damage is 13 if one handed, 15 if two handed

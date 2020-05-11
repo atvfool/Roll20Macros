@@ -1,0 +1,1 @@
+?{Blessed?|No,0 |Yes, 1d4 [Blessed] }

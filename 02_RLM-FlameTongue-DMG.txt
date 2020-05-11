@@ -1,0 +1,1 @@
+/roll ?{Attack 1 hit?|Yes,#RLMFlameTongue-DMG +#RageDMG + 5 |No,0 } + ?{Attack 2 hit?|Yes,#RLMFlameTongue-DMG +#RageDMG + 5 |No,0 }
